@@ -1,0 +1,26 @@
+hayat e tayaba
+light green= 012e08
+orange= FF7F00
+ecru= D1AC66
+black= 000000
+dark green= 073618
+white= ffffff
+
+maarif tv
+dark pastel green= 39B241
+caribbean current= 2E7177
+tangerine= F1881B
+
+mawasaaat
+pear= B0DB04
+midnight green= 194F57
+light white= fefefe
+
+maishat e tayaba
+kelly green= 48A808
+earth yellow= D8A54F
+
+safeeraan e noor
+selective yellow= FFBA14
+black= 020102
+cornell red= B71818
